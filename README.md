@@ -1,4 +1,4 @@
-# BabysWorldView
+# BabyWorldView
 
 Innocent until proven guilty
 
@@ -6,4 +6,4 @@ Innocent until proven guilty
 
 Download the latest `Release`.
 
->[zip](https://github.com/PersonHood/BabysWorldView/archive/refs/tags/v1.6.zip)
+>[zip](https://github.com/PersonHood/BabyWorldView/archive/refs/tags/v1.6.zip)
